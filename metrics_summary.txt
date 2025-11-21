@@ -1,0 +1,7 @@
+Overall accuracy: 0.955302
+
+label,precision,recall,f1,support
+glioma,0.971429,0.901515,0.935167,264
+meningioma,0.924812,0.921348,0.923077,267
+notumor,0.993730,0.993730,0.993730,319
+pituitary,0.929260,0.993127,0.960133,291
